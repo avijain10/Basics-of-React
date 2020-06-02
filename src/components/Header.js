@@ -1,9 +1,8 @@
 import React from "react";
-import ReactDOM from "react-dom";
 
 function Header() {
   return (
-    <header>
+    <header className="navbar">
       <h1>This is a tutorial to React!</h1>
     </header>
   );

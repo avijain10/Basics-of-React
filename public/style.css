@@ -1,0 +1,32 @@
+.navbar {
+  background-color: lightskyblue;
+  height: 100px;
+  margin-bottom: 15px;
+  text-align: center;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  margin: 0;
+}
+
+.content {
+  background-color: rgb(75, 184, 228);
+  text-align: left;
+  font-size: 20px;
+}
+
+.list {
+  background-color: rgb(171, 171, 223);
+  font-size: 20px;
+}
+
+.footer {
+  background-color: rgb(148, 87, 204);
+  height: 30px;
+  font-size: 20px;
+  display: flex;
+}

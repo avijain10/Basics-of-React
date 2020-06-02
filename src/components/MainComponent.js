@@ -4,8 +4,10 @@ import ReactDOM from "react-dom";
 function MainComponent() {
   return (
     <div>
-      <h4>Certain Languages you need to know before learning React.</h4>
-      <ol>
+      <h4 className="content">
+        Certain Languages you need to know before learning React.
+      </h4>
+      <ol className="list">
         <li>HTML</li>
         <li>CSS</li>
         <li>Javascript</li>
